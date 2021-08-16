@@ -1,0 +1,22 @@
+{
+  "name": "copytweetimages",
+  "version": "1.0.0",
+  "description": "copy images from Twitter any account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cona/copyTweetImages.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cona/copyTweetImages/issues"
+  },
+  "homepage": "https://github.com/cona/copyTweetImages#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
